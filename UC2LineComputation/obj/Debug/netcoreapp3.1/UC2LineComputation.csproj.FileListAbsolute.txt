@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\obj\Debug\netcoreapp3.1\UC2LineComputation.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\obj\Debug\netcoreapp3.1\UC2LineComputation.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\obj\Debug\netcoreapp3.1\UC2LineComputation.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\obj\Debug\netcoreapp3.1\UC2LineComputation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\bin\Debug\netcoreapp3.1\UC2LineComputation.exe
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\bin\Debug\netcoreapp3.1\UC2LineComputation.deps.json
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\bin\Debug\netcoreapp3.1\UC2LineComputation.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\bin\Debug\netcoreapp3.1\UC2LineComputation.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\bin\Debug\netcoreapp3.1\UC2LineComputation.dll
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\bin\Debug\netcoreapp3.1\UC2LineComputation.pdb
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\obj\Debug\netcoreapp3.1\UC2LineComputation.dll
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\obj\Debug\netcoreapp3.1\UC2LineComputation.pdb
+C:\Users\admin\Desktop\Terminalcommands\csharp\UC2LineComputation\obj\Debug\netcoreapp3.1\UC2LineComputation.genruntimeconfig.cache
